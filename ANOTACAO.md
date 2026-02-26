@@ -2,6 +2,9 @@
 1. git init -> Inicializar a pasta como repositório local
 2. git branch -M main -> Altera a branch master para main
 3. git add . -> Adiciona os arquivos para o repositório local
+4. git commit -m "Primeira versao do sistema"
+5. git remote add origin https://github.com/wandholanda/sistema_medico.git
+6. git push -u origin main
 
 ## CONFIGURAÇÃO DE USUÁRIO GIT
 git config --global user.name "Wanderson Holanda"
